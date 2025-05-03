@@ -1,6 +1,6 @@
 [project]
 name = "agent-tooltree"
-version = "0.1.0"
+version = "0.0.1"
 description = "Agent ToolTree: Navigate your Agent Arsenal - A set of tools to be used by the AI agents"
 authors = [
     {name = "Rohit S. Garud"}
